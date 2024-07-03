@@ -1,6 +1,6 @@
 # Iowa-Liquor-Market-Analysis
 
-##Focus
+# Focus
 The focus of this project is to analyze and understand the patterns and trends in liquor sales across Iowa. This includes examining sales data to identify key factors driving sales, understanding regional differences, and providing actionable insights to stakeholders.
 
 ## Key Issues Addressed
